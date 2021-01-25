@@ -18,4 +18,4 @@ Author: Lawrence Adu-Gyamfi
 
 Test Dataset | BLEU
 --- | --- 
-GhanaNLP_data_001.csv | 0.72 
+crowdsourced_data.csv | 0.72 
