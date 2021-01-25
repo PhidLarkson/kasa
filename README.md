@@ -5,7 +5,7 @@ Author: Lawrence Adu-Gyamfi
 ## Data
 
 	- Training: JW300.en.tw dataset
-	- Test: GhanaNLP_data_001.csv dataset
+	- Test: GhanaNLP [crowdsourced_data.csv](https://zenodo.org/record/4432117#.YA8tPuj7SUl)
 
 ## Model
 
@@ -18,4 +18,4 @@ Author: Lawrence Adu-Gyamfi
 
 Test Dataset | BLEU
 --- | --- 
-GhanaNLP_data_001.csv | 0.569 
+GhanaNLP_data_001.csv | 0.72 
