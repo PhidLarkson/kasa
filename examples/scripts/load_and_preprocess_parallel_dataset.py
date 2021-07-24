@@ -12,8 +12,8 @@ TwiPreprocessor = Preprocessing()
 
 # Read raw parallel dataset
 raw_data_twi,raw_data_en = TwiPreprocessor.read_parallel_dataset(
-        filepath1='../../data/jw300.en-tw.tw',
-        filepath2='../../data/jw300.en-tw.en')
+        filepath1='../data/jw300.en-tw.tw',
+        filepath2='../data/jw300.en-tw.en')
 
 # Normalize the raw data
 raw_data_en = [TwiPreprocessor.normalize_line(data,language="en") for data in raw_data_en]
